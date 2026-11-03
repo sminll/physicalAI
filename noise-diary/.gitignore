@@ -1,0 +1,10 @@
+# 진짜 와이파이 이름·비밀번호 (깃허브에 올리면 안 됨)
+classifier/secrets.h
+
+# 실행하면 생기는 파일
+noise.db
+__pycache__/
+.pytest_cache/
+
+# 녹음 데이터 (목소리가 들어 있어서 제외. Edge Impulse에 이미 올라가 있음)
+data/
